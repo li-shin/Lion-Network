@@ -1,4 +1,4 @@
 # Lion-Network
 -------- 
 
-[![HTTP check 
+[![PHP checks and unit test]
