@@ -1,4 +1,4 @@
-# Lion-Network
+# About Lion-Network 
 -------- 
 
-[![PHP checks and unit test]
+[![PHP checks and unit tests](https://github.com/li-shin/Lion-Network/
